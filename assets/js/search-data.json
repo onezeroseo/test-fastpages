@@ -3,9 +3,9 @@
     
         "post0": {
             "title": "First post !!",
-            "content": "Text . Hi ! this is my first post here. . I&#39;m very excited. . Text 2 . Let me try some thing here ... . Latex . $$ y = w cdot x + beta + epsilon $$ . code . for i in range(10): print(i) . 0 1 2 3 4 5 6 7 8 9 . lol . this is the End !! .",
-            "url": "https://onezeroseo.github.io/test-fastpages/2020/11/29/first-post.html",
-            "relUrl": "/2020/11/29/first-post.html",
+            "content": "Text . Hi ! this is my first post here. . I&#39;m very excited. . Text 2 . Let me try some thing here ... . Latex . $$ y = w cdot x + beta + epsilon $$ . code . for i in range(10): print(i) . 0 1 2 3 4 5 6 7 8 9 . !ls ../images/2020-11-29-first-post/ . 1605873497.gif scale_dot_product_attention.png . . this is the End !! .",
+            "url": "https://onezeroseo.github.io/test-fastpages/blogging/2020/11/29/first-post.html",
+            "relUrl": "/blogging/2020/11/29/first-post.html",
             "date": " • Nov 29, 2020"
         }
         
